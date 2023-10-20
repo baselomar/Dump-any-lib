@@ -2,7 +2,7 @@ import os
 import sys
 import time
 import requests
-from pystyle import *
+from pystyle import
 
 
 
